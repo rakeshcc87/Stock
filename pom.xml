@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.abab.stocks</groupId>
-  <artifactId>StockCheck</artifactId>
+  <artifactId>Stock</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>StockCheck Maven Webapp</name>
+  <name>Stock Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -26,6 +26,6 @@
 </dependency>
   </dependencies>
   <build>
-    <finalName>StockCheck</finalName>
+    <finalName>Stock</finalName>
   </build>
 </project>
